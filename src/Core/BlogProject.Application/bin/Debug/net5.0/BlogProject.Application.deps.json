@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BlogProject.Application/1.0.0": {
+        "dependencies": {
+          "BlogProject.Domain": "1.0.0"
+        },
+        "runtime": {
+          "BlogProject.Application.dll": {}
+        }
+      },
+      "BlogProject.Domain/1.0.0": {
+        "runtime": {
+          "BlogProject.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BlogProject.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BlogProject.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

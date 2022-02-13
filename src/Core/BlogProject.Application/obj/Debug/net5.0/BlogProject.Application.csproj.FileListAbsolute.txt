@@ -1,0 +1,15 @@
+C:\Users\gozde\source\repos\BlogProject\src\Core\BlogProject.Application\bin\Debug\net5.0\BlogProject.Application.deps.json
+C:\Users\gozde\source\repos\BlogProject\src\Core\BlogProject.Application\bin\Debug\net5.0\BlogProject.Application.dll
+C:\Users\gozde\source\repos\BlogProject\src\Core\BlogProject.Application\bin\Debug\net5.0\ref\BlogProject.Application.dll
+C:\Users\gozde\source\repos\BlogProject\src\Core\BlogProject.Application\bin\Debug\net5.0\BlogProject.Application.pdb
+C:\Users\gozde\source\repos\BlogProject\src\Core\BlogProject.Application\bin\Debug\net5.0\BlogProject.Domain.dll
+C:\Users\gozde\source\repos\BlogProject\src\Core\BlogProject.Application\bin\Debug\net5.0\BlogProject.Domain.pdb
+C:\Users\gozde\source\repos\BlogProject\src\Core\BlogProject.Application\obj\Debug\net5.0\BlogProject.Application.csproj.AssemblyReference.cache
+C:\Users\gozde\source\repos\BlogProject\src\Core\BlogProject.Application\obj\Debug\net5.0\BlogProject.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gozde\source\repos\BlogProject\src\Core\BlogProject.Application\obj\Debug\net5.0\BlogProject.Application.AssemblyInfoInputs.cache
+C:\Users\gozde\source\repos\BlogProject\src\Core\BlogProject.Application\obj\Debug\net5.0\BlogProject.Application.AssemblyInfo.cs
+C:\Users\gozde\source\repos\BlogProject\src\Core\BlogProject.Application\obj\Debug\net5.0\BlogProject.Application.csproj.CoreCompileInputs.cache
+C:\Users\gozde\source\repos\BlogProject\src\Core\BlogProject.Application\obj\Debug\net5.0\BlogProject.Application.csproj.CopyComplete
+C:\Users\gozde\source\repos\BlogProject\src\Core\BlogProject.Application\obj\Debug\net5.0\BlogProject.Application.dll
+C:\Users\gozde\source\repos\BlogProject\src\Core\BlogProject.Application\obj\Debug\net5.0\ref\BlogProject.Application.dll
+C:\Users\gozde\source\repos\BlogProject\src\Core\BlogProject.Application\obj\Debug\net5.0\BlogProject.Application.pdb
